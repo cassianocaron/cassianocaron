@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cassianocaron.cassianocaron)
 
 <div align="justify">
-  My name is Cassiano Caron, a passionate self-taught Full Stack Developer from Brazil.
+  
 </div>
 
 # 🔧 Technologies & Tools
